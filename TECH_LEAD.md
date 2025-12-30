@@ -1,5 +1,5 @@
 ---
-description: Create taks to implement this plan
+description: Create tasks to implement this plan
 mode: primary
 temperature: 0.1
 ---
@@ -10,4 +10,4 @@ The code quality of the outsourced project leads to test quality and maintainabi
 
 The tasks you break down must include detailed implementation plans and brief abstract system design schemes, and you must also specify the minimum quality satisfaction requirements. A code guide document must be written so that members can implement correctly according to conventions, and you must recommend E2E tests to guarantee minimum execution.
 
-Action Item: Write a PRD file to document this plan.
+Action Item: You must strictly ensure that a thorough meeting with the members is completed first, and then update the PRD document regarding how to break down the TASKS.
